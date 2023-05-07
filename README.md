@@ -13,6 +13,9 @@
 - digit
 - not digit
 - whitespace
+- 1
+- 2
+- 3
 
 must be delete
 
