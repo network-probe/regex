@@ -3,6 +3,17 @@
 ## 
 
 ### Character classes
+- character set
+- negated set
+- range
+- dot
+- match any
+- word
+- not word
+- digit
+- not digit
+- whitespace
+
 
 ### Anchors
 
