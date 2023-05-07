@@ -14,9 +14,6 @@
 - not digit
 - whitespace
 
-
-
-
 ### Anchors
 
 ### Escaped characters
